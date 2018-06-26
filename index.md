@@ -1,7 +1,7 @@
 
 
 ### 딥 러닝 강의
-- [8주 만에 딥 러닝 엔지니어 양성하기](http://http://8wk-dl.dano.ai/)
+- [8주 만에 딥 러닝 엔지니어 양성하기](http://8wk-dl.dano.ai/)
 
 ### 데이터 분석 컨설팅
 - 데이터 분석 프레임워크
@@ -15,4 +15,6 @@
 - 마케팅 대시보드 개발
 
 
-[Linkedin](https://www.linkedin.com/in/danolee/) | [email](mailto:dano@dano.ai)
+### Contact
+- [Linkedin](https://www.linkedin.com/in/danolee/)
+- [Email](mailto:dano@dano.ai)
