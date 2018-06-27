@@ -7,7 +7,7 @@
 
 [![Image of Yaktocat](https://d2a08gotq8viav.cloudfront.net/web-pages/icons/linkedin-button-24px.png)](https://www.linkedin.com/in/danolee/)
 
-### 데이터 혁신 컨설팅
+### 데이터 기반 혁신 컨설팅
 - [데이터 기반 그로스 해킹 컨설팅](http://growth-hacking.dano.ai)
 - AI 부트스트랩 컨설팅
 
