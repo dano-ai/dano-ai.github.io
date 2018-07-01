@@ -15,7 +15,7 @@
 [![Image of Yaktocat](https://d2a08gotq8viav.cloudfront.net/web-pages/icons/linkedin-button.png)](https://www.linkedin.com/in/danolee/) [![Image of Yaktocat](https://d2a08gotq8viav.cloudfront.net/web-pages/icons/email-button.png)](mailto:dano@dano.ai)
 
 ### 고객사
-SKT, 현대카드, 넥슨, NHN 엔터테인먼트, 네오위즈, 게임빌, 네시삼십삼분, 10x10
+SKT, 현대카드, 넥슨, NHN 엔터테인먼트, 네오위즈, 게임빌, 네시삼십삼분, 10x10, TNK Factory
 
 
 ## 서비스
