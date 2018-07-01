@@ -1,16 +1,26 @@
-### Who is Dano? 
+## Who is Dano? 
 
 ![Dano Lee](https://d2a08gotq8viav.cloudfront.net/web-pages/images/SKT+Cloud+Inspire2013+Dano+1200x800.jpg)
 
-저는 연쇄 창업가 (serial entrepreneur), 인공지능 기술을 활용하여 데이터를 분석하는 데이터 사이언티스트, 그리고 풀스택 엔지니어입니다. 현재는 인공지능, 그로스 해킹, 마케팅 자동화 등에 대한 컨설팅과 기업 대상 교육 서비스 등을 제공하고 있습니다. 고객사로는 **현대카드 AI 서비스팀, TNK Factory** 등이 있습니다.
+저는 연쇄 창업가 (serial entrepreneur), 인공지능 기술을 활용하여 데이터를 분석하는 데이터 사이언티스트, 그리고 풀스택 엔지니어입니다.
 
-지난 2012년 미국 샌프란시스코에 **Nudge (舊 AD fresca)**라는 B2B 스타트업을 설립하여 실시간 사용자 행동 분석 솔루션을 직접 개발하여 월 1억건 이상의 모바일 게임 및 커머스 데이터를 분석하고 마케팅 개선점을 도출 및 적용함으로써 모바일 사용자의 잔존율과 매출 증진을 도왔습니다. 또한 규칙 기반의 모바일 마케팅 자동화 솔루션을 개발하여 마케팅 효율을 높여 왔습니다. 고객사로는 **넥슨, NHN 엔터테인먼트, 네오위즈, 게임빌, 네시삼십삼분, 10x10** 등이 있습니다.
+모바일 태동기부터 '모바일 = 개인화'라는 테마에 심취하여 모바일과 데이터가 만나는 산업에서 일해왔습니다. 이후 2개의 스타트업을 창업하여 실시간 사용자 행동 분석 솔루션 및 모바일 마케팅 자동화 솔루션 등을 개발하였고 월 1억건 이상의 모바일 게임과 모바일 커머스 데이터 처리 및 분석을 진행하였습니다.
 
-미래창조과학부의 **소프트웨어 마에스트로 과정의 멘토**로서 수 년간 유망한 소프트웨어 엔지니어들의 성장을 위해 서비스 기획부터 아키텍처, 설계, 구현, QA, 운영 등에 이르기까지 Full Product Life Cycle을 직접 체험할 수 있도록 멘토링한 바 있습니다.
+최근에는 머신 러닝과 딥 러닝 기술을 이용하여 모바일 사용자의 행동을 예측하여 마케팅 효율을 높이는데 주력하고 있습니다.
+
+### 주요 경력
+- 2008 한국 최대 규모의 3-Screen UX 컨설팅 프로젝트인 **SKT G1 프로젝트 총괄**
+- 2009 세계 최대 게임 회사인 **Electronic Arts의 한국 모바일 사업 담당 이사**
+- 2012 **AD fresca** 설립: LiveOps SaaS for Mobile Games 
+- 2014 미국 샌프란시스코에 **Nudge** 설립: Mobile Marketing Automation SaaS
 
 [![Image of Yaktocat](https://d2a08gotq8viav.cloudfront.net/web-pages/icons/linkedin-button.png)](https://www.linkedin.com/in/danolee/) [![Image of Yaktocat](https://d2a08gotq8viav.cloudfront.net/web-pages/icons/email-button.png)](mailto:dano@dano.ai)
 
+### 고객사
+SKT, 현대카드, 넥슨, NHN 엔터테인먼트, 네오위즈, 게임빌, 네시삼십삼분, 10x10
 
+
+## 서비스
 
 ### 데이터 기반 혁신 컨설팅
 - [데이터 기반 그로스 해킹 컨설팅](http://growth-hacking.dano.ai)
