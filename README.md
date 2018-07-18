@@ -9,8 +9,8 @@
 ### 주요 경력
 - 2008 한국 최대 규모의 3-Screen UX 컨설팅 프로젝트인 **SKT G1 프로젝트 총괄**
 - 2009 세계 최대 게임 회사인 **Electronic Arts의 한국 모바일 사업 담당 이사**
-- 2012 **AD fresca** 설립: LiveOps SaaS for Mobile Games and Commerce
-- 2014 미국 샌프란시스코에 **Nudge Now** 설립: Mobile Marketing Automation SaaS
+- 2012 **AD fresca** 설립: LiveOps SaaS for Mobile Games and Mobile commerce
+- 2014 미국 샌프란시스코에 **Nudge Now** 설립: Mobile Marketing Automation SaaS for Mobile commerce
 
 [![Image of Yaktocat](https://d2a08gotq8viav.cloudfront.net/web-pages/icons/linkedin-button.png)](https://www.linkedin.com/in/danolee/) [![Image of Yaktocat](https://d2a08gotq8viav.cloudfront.net/web-pages/icons/email-button.png)](mailto:dano@dano.ai)
 
