@@ -15,8 +15,10 @@
 [![Image of Yaktocat](https://d2a08gotq8viav.cloudfront.net/web-pages/icons/linkedin-button.png)](https://www.linkedin.com/in/danolee/) [![Image of Yaktocat](https://d2a08gotq8viav.cloudfront.net/web-pages/icons/email-button.png)](mailto:dano@dano.ai)
 
 ### 고객사
-SparkLabs, SKT, 현대카드, 넥슨, NHN 엔터테인먼트, 네오위즈, 게임빌, 네시삼십삼분, 10x10, TNK Factory
+SparkLabs, 튜터링, 더클로젯컴퍼니, 유저해빗, SKT, 현대카드, 넥슨, NHN 엔터테인먼트, 네오위즈, 게임빌, 네시삼십삼분, 10x10, TNK Factory
 
+### 블로그
+[미디엄에서 만나요!](https://medium.com/@dano.ai/)
 
 ## 서비스
 인공 지능, 그로스 해킹, 마케팅 자동화 등에 대한 컨설팅, 시스템 아키텍처 컨설팅, 그리고 교육 및 트레이닝 서비스 등을 기업 대상으로 제공하고 있습니다. 
