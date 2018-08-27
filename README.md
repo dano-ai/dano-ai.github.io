@@ -20,7 +20,7 @@
 - 중견 및 대기업: SKT, 현대카드, 넥슨, NHN 엔터테인먼트, 네오위즈, 게임빌, 네시삼십삼분
 
 ## 블로그
-[미디엄에서 만나요!](https://medium.com/@dano.ai/)
+[미디엄에서 만나요!](https://medium.com/dano-ai)
 
 <iframe src="https://upscri.be/be962c?as_embed" height="200" frameborder="0" style="width:100%;max-width:800px;margin:0 auto;"></iframe>
 
