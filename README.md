@@ -12,15 +12,21 @@
 - 2012 **AD fresca** 설립: LiveOps SaaS for Mobile Games and Mobile commerce
 - 2014 미국 샌프란시스코에 **Nudge Now** 설립: Mobile Marketing Automation SaaS for Mobile commerce
 
-[![Image of Yaktocat](https://d2a08gotq8viav.cloudfront.net/web-pages/icons/linkedin-button.png)](https://www.linkedin.com/in/danolee/) [![Image of Yaktocat](https://d2a08gotq8viav.cloudfront.net/web-pages/icons/email-button.png)](mailto:dano@dano.ai)
 
 ### 고객사
-- VC/액셀러레이터: **롯데 액셀러레이터**, **SparkLabs**
+- VC/액셀러레이터: **SparkLabs**, **롯데 액셀러레이터**
 - 스타트업: 펫미업, 카바조, 스무디, 아자스쿨, 클래스카드, 튜터링, 10x10, TNK Factory
 - 중견 및 대기업: SKT, 현대카드, 넥슨, NHN 엔터테인먼트, 네오위즈, 게임빌, 네시삼십삼분
 
-## 블로그
-[미디엄에서 만나요!](https://medium.com/dano-ai)
+### 연락처
+[![Image of Yaktocat](https://d2a08gotq8viav.cloudfront.net/web-pages/icons/linkedin-button.png)](https://www.linkedin.com/in/danolee/) [![Image of Yaktocat](https://d2a08gotq8viav.cloudfront.net/web-pages/icons/email-button.png)](mailto:dano@dano.ai)
+
+## 컨텐츠
+### [유튜브 채널](http://bit.ly/2rI2Uh3)
+[![유튜브 채널](https://img.youtube.com/vi/kRPU70VG2GY/0.jpg)](http://bit.ly/2rI2Uh3)
+
+### [Medium (블로그)](https://medium.com/dano-ai)
+[<img src="https://d2a08gotq8viav.cloudfront.net/web-pages/images/produce48-nanami.jpg" width="400">](https://medium.com/dano-ai)
 
 ## 스타트업 코칭 서비스
 스타트업을 대상으로 고객 개발 (Customer Development), 그로스 해킹, 데이터 분석, 인공 지능 등의 전문 주제에 대한 코칭 서비스를 제공합니다.
