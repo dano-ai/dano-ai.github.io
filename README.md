@@ -26,7 +26,7 @@
 [![유튜브 채널](https://img.youtube.com/vi/kRPU70VG2GY/0.jpg)](http://bit.ly/2rI2Uh3)
 
 ### [Medium (블로그)](https://medium.com/dano-ai)
-[<img src="https://d2a08gotq8viav.cloudfront.net/web-pages/images/produce48-nanami.jpg" width="400">](https://medium.com/dano-ai)
+[<img src="https://d2a08gotq8viav.cloudfront.net/web-pages/images/produce48-nanami.jpg" width="480">](https://medium.com/dano-ai)
 
 ## 스타트업 코칭 서비스
 스타트업을 대상으로 고객 개발 (Customer Development), 그로스 해킹, 데이터 분석, 인공 지능 등의 전문 주제에 대한 코칭 서비스를 제공합니다.
