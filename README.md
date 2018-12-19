@@ -22,10 +22,11 @@
 [![Image of Yaktocat](https://d2a08gotq8viav.cloudfront.net/web-pages/icons/linkedin-button.png)](https://www.linkedin.com/in/danolee/) [![Image of Yaktocat](https://d2a08gotq8viav.cloudfront.net/web-pages/icons/email-button.png)](mailto:dano@dano.ai)
 
 ## 컨텐츠
-### [유튜브 채널](http://bit.ly/2rI2Uh3)
-[<img src="https://img.youtube.com/vi/kRPU70VG2GY/0.jpg" width="400">](http://bit.ly/2rI2Uh3)
 
-### [Medium (블로그)](https://medium.com/dano-ai)
+### <img src="https://www.youtube.com/yt/about/media/images/brand-resources/icons/YouTube_icon_full-color.svg" width="23"> [함께 성장하는 친구들](http://bit.ly/2rI2Uh3)
+[<img src="https://img.youtube.com/vi/kRPU70VG2GY/0.jpg" width="400">](http://bit.ly/2SSY9wL)
+
+### <img src="https://cdn-images-1.medium.com/max/800/1*emiGsBgJu2KHWyjluhKXQw.png" width="23"> [당신의 스타트업을 그로스 해킹하라!](https://medium.com/dano-ai)
 [<img src="https://d2a08gotq8viav.cloudfront.net/web-pages/images/produce48-nanami.jpg" width="400">](https://medium.com/dano-ai)
 
 ## 스타트업 코칭 서비스
