@@ -8,10 +8,10 @@
 
 ### 주요 경력
 - 2008 **d'strict UX 부문장**, SKT G1 프로젝트 총괄 (한국 최대 UX기반 혁신 컨설팅 프로젝트)
-- 2009 세계 최대 게임 회사인 **Electronic Arts, 한국 모바일 사업 담당 이사**
+- 2009 **Electronic Arts, 한국 모바일 사업 담당 이사**
 - 2012 **AD fresca, Founder & CEO**: LiveOps SaaS for Mobile Games and Mobile commerce
 - 2014 **Nudge, Founder & CEO**: SF based, Mobile Marketing Automation SaaS for Mobile commerce
-- 2019 글로벌 액셀러레이터 **SparkLabs, Venture Partner**
+- 2019 **SparkLabs, Venture Partner**
 
 
 ### 고객사
