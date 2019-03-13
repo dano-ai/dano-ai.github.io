@@ -11,6 +11,7 @@
 - 2009 세계 최대 게임 회사인 **Electronic Arts 한국 모바일 사업 담당 이사**
 - 2012 **AD fresca** 설립: LiveOps SaaS for Mobile Games and Mobile commerce
 - 2014 미국 샌프란시스코에 **Nudge Now** 설립: Mobile Marketing Automation SaaS for Mobile commerce
+- 2019 Venture Partner @ SparkLabs
 
 
 ### 고객사
