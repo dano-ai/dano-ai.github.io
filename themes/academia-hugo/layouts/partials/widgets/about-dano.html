@@ -25,7 +25,7 @@
         itemprop="image" alt="Avatar">
       {{ else }}
       {{ $avatar_image := .page.Params.avatar_image }}
-      <img class="img-fluid" src="{{ printf "img/%s" $avatar_image | relURL }}" itemprop="image" alt="Avatar">
+      <img class="img-fluid" src="{{ site.Params.cloudfront_address }}{{ printf "img/%s" $avatar_image | relURL }}" itemprop="image" alt="Avatar">
       {{ end }}
     </div>
     <ul class="network-icon bg-white mx-2 py-2 text-center" aria-hidden="true">

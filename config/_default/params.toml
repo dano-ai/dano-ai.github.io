@@ -113,6 +113,9 @@ plugins_js  = []
 # Get user avatars from Gravatar.com? (true/false)
 gravatar = false
 
+# cloudfront address
+cloudfront_address = "http://d2a08gotq8viav.cloudfront.net/web-pages"
+
 # Align the main menu to the right of the page? (true/false)
 menu_align_right = true
 
