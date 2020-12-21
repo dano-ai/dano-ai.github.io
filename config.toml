@@ -1,0 +1,6 @@
+baseURL = "http://dano.ai"
+languageCode = "ko-KR"
+title = "Dano Lee"
+
+theme = "academia-hugo"
+# theme = "ananke"
