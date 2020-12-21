@@ -54,7 +54,7 @@
   <div class="col-lg-5" itemprop="description">
 
     <div class="portrait-title">
-      <h2 id="about-dano-about" itemprop="name">{{ $person.name }}</h2>
+      <h2 id="about-dano-about" itemprop="name">About</h2>
       {{ with $person.role }}<h3 class="d-inline-block" itemprop="jobTitle">{{ . | markdownify | emojify }},</h3>{{ end }}
 
       {{ range $person.organizations }}
