@@ -7,82 +7,27 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://dano.ai/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://dano.ai/talk/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      
-      <guid>https://dano.ai/talk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Courses</title>
-      <link>https://dano.ai/courses/</link>
-      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://dano.ai/courses/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>https://dano.ai/publication/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://dano.ai/publication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Posts</title>
-      <link>https://dano.ai/post/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://dano.ai/post/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Slides</title>
-      <link>https://dano.ai/slides/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://dano.ai/slides/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Privacy Policy</title>
+      <title></title>
       <link>https://dano.ai/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://dano.ai/privacy/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>https://dano.ai/project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://dano.ai/project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Posts</title>
-      <link>https://dano.ai/posts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dano.ai/posts/</guid>
-      <description></description>
+      <guid>https://dano.ai/privacy/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;title: Privacy Policy
+date: &amp;ldquo;2018-06-28T00:00:00+01:00&amp;rdquo;
+draft: true
+share: false&lt;/p&gt;
+&lt;h1 id=&#34;optional-header-image-relative-to-staticimg-folder&#34;&gt;Optional header image (relative to &lt;code&gt;static/img/&lt;/code&gt; folder).&lt;/h1&gt;
+&lt;h2 id=&#34;image-&#34;&gt;header:
+caption: &amp;quot;&amp;quot;
+image: &amp;quot;&amp;quot;&lt;/h2&gt;
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
     </item>
     
   </channel>
