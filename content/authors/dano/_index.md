@@ -93,18 +93,9 @@ email: "dano@dano.ai"
 #- Visitors
 ---
 
-저는 Dano 檀烏 이의정입니다. 꽤 오래 전부터 IT 업계에서 다양한 일을 해왔고 최근 몇 년 동안은 초기 스타트업이 PMF (Product-Market Fit)을 빠르게 찾도록 돕고 있습니다.
+저는 Dano 檀烏 이의정입니다. 꽤 오래전부터 IT 업계에서 다양한 일을 해왔고 최근 몇 년 동안은 초기 스타트업이 PMF (Product-Market Fit)을 빠르게 찾도록 돕고 있습니다.
 
 #startupCoach for #earlyStageStartups to find #productMarketFit using #dataDriven #uxDesign
 
 Expertise in #mobile and #SaaS
-
-<!-- 제 과거가 궁금하시다면 LinkedIn을, 
-
-제가 만든 컨텐츠가 궁금하시다면 블로그와 유튜브를,
-
-저의 코칭 또는 컨설팅이 필요하시다면 여기를,
-
-그럼 이만.
- -->
 
