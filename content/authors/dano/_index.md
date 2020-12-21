@@ -5,6 +5,7 @@ avatar_image: "user-full.png"
 # Username (this should match the folder name)
 authors:
 - dano
+
 # resume download button
 #btn:
 #- url : ""
@@ -14,12 +15,12 @@ authors:
 superuser: true
 
 # Role/position
-role: 스타트업 PMF 코치 | Venture Partner @SparkLabs
+role: "스타트업 PMF 코치 | Venture Partner @SparkLabs"
 
 # Organizations/Affiliations
-organizations:
-- name: ""
-  url: ""
+#organizations:
+#- name : "" 
+#  url : ""
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
