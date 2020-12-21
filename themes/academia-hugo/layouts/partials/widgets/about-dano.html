@@ -54,7 +54,7 @@
   <div class="col-lg-5" itemprop="description">
 
     <div class="portrait-title">
-      <h2 itemprop="name">{{ $person.name }}</h2>
+      <h2 id="about-dano-about" itemprop="name">{{ $person.name }}</h2>
       {{ with $person.role }}<h3 class="d-inline-block" itemprop="jobTitle">{{ . | markdownify | emojify }},</h3>{{ end }}
 
       {{ range $person.organizations }}
@@ -69,8 +69,9 @@
     <link itemprop="url" href="{{ .Permalink }}">
 
 
-
+    <div id="person-content">
     {{ $person_page.Content }}
+    </div>
 
     {{ range $person.btn }}
     <a href="{{ .url }}" class="btn btn-primary btn-lg"><i class="fas fa-download mr-2" aria-hidden="true"></i>{{ .label }}</a>
