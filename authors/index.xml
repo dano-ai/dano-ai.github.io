@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Dano Lee</title>
+    <link>https://dano.ai/authors/</link>
+    <description>Recent content in Authors on Dano Lee</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    
+	    <atom:link href="https://dano.ai/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://dano.ai/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dano.ai/authors/admin/</guid>
+      <description>&lt;p&gt;Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../../img/certifacates.jpg&#34; alt=&#34;reviews&#34;&gt;&lt;/p&gt;
+&lt;p&gt;It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum. The point of using Lorem Ipsum. distracted by the readable content of a page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://dano.ai/authors/dano/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dano.ai/authors/dano/</guid>
+      <description>&lt;p&gt;저는 檀烏 이의정입니다. 꽤 오래전부터 IT 업계에서 다양한 일을 해왔고 최근 몇 년 동안은 초기 스타트업이 PMF (Product-Market Fit)을 빠르게 찾도록 돕고 있습니다.&lt;/p&gt;
+&lt;p&gt;My name is Dano Lee. I am a startup coach helping early-stage startups to find product-market fit using data-driven UX design. Heavily focused on Mobile and SaaS&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
