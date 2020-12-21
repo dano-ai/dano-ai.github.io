@@ -14,7 +14,7 @@ authors:
 superuser: true
 
 # Role/position
-#role: 스타트업 PMF 코치 | Venture Partner @SparkLabs
+role: 스타트업 PMF 코치 | Venture Partner @SparkLabs
 
 # Organizations/Affiliations
 organizations:
@@ -26,23 +26,6 @@ organizations:
 
 # Should the user's education and interests be displayed?
 display_education: false
-
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/academia Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
