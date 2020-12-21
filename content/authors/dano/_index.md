@@ -4,7 +4,7 @@ name: About
 avatar_image: "user-full.png"
 # Username (this should match the folder name)
 authors:
-- admin
+- dano
 # resume download button
 #btn:
 #- url : ""
