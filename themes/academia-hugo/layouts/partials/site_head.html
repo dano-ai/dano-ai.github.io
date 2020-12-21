@@ -172,7 +172,7 @@
     {{ $og_image = (printf "img/%s" site.Params.avatar) | absURL }}
     {{ $twitter_card = "summary" }}
   {{ else }}
-    {{ $og_image = "img/dano-main.png" | absURL }}
+    {{ $og_image = "img/dano-og-image.png" | absURL }}
     {{ $twitter_card = "summary" }}
   {{ end }}
   <meta property="twitter:card" content="{{ $twitter_card }}">
