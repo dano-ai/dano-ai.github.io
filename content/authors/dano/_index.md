@@ -1,6 +1,6 @@
 ---
 # Display name
-name: About
+name: Dano Lee 이의정
 avatar_image: "user-full.png"
 # Username (this should match the folder name)
 authors:
