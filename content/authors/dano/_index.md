@@ -77,5 +77,5 @@ email: "dano@dano.ai"
 
 저는 檀烏 이의정입니다. 꽤 오래전부터 IT 업계에서 다양한 일을 해왔고 최근 몇 년 동안은 초기 스타트업이 PMF (Product-Market Fit)을 빠르게 찾도록 돕고 있습니다.
 
-My name is Dano Lee. I am a startup coach helping early-stage startups to find product-market fit using data-driven UX design. Heavily focused on Mobile and SaaS.
+My name is Dano Lee. I am a serial entrepreneur and a startup coach helping early-stage startups to find product-market fit using data-driven UX design. Heavily focused on Mobile and SaaS.
 
